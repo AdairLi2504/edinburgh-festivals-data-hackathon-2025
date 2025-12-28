@@ -53,7 +53,7 @@ customers registered on the Access Pass scheme.
 
 1. Code the python scripts to analyse data provided about the topics we interested, then generate the sheets on the [output](https://github.com/AdairLi2504/edinburgh-festivals-data-hackathon-2025/tree/main/output).
 2. Use the sheets to generate in the previous step to draw the diagrams.
-3. Adjust the diagrams to make them more clear and compose a report.
+3. Adjust the diagrams to make them more readable and compose a report.
 
 ## Report 
 
@@ -63,7 +63,7 @@ Our final report slides [EIF 2025 hackathon final ppt](https://github.com/AdairL
 
   We used 
   - [Pandas](https://pandas.pydata.org) to caculate and do statistic the data about the relationships we interested.
-  - 
+  - [Rawgraphs](https://www.rawgraphs.io) to generate the diagrams
   - [Canva](https://www.canva.com) to create the report slides.
   
 ## Team members
